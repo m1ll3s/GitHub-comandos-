@@ -1,0 +1,27 @@
+git init
+git status
+git add .
+git commit -m "primeiro commit"
+git remote add origin https://github.com/usuario/rails-girls.git
+git push -u origin main
+git add .
+git commit -m "digite sua mensagem de commit aqui"
+git push origin master
+git
+
+Substituindo master por main
+$ git init
+$ git status
+$ git remote add origin urlDoRepositório
+$ git pull origin main
+$ git add .
+$ git checkout -b main
+$ git add .
+$ git commit -m "Commit"
+$ git push origin main
+
+
+
+
+
+
